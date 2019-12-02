@@ -7,3 +7,5 @@ Created on Thu Nov 28 23:57:17 2019
 """
 
 print("Hello World")
+print("Still no progress with OpenCV")
+print("Will do open CV parallely with work")
